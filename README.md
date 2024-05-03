@@ -23,7 +23,7 @@ O valor para criar um app pode ficar entre R$ 15 mil a R$ 100 mil ou mais.
 
 
 ## 1.3 Firebase.
-- https://cloud.google.com/pricing/list?utm_source=google&utm_medium=cpc&       utm_campaign=latam-BR-all-pt-dr-AKWS-all-all-trial-p-dr-1011454-LUAC0013595&utm_content=text-ad-none-any-DEV_c-CRE_545609612280-ADGP_Hybrid+%7C+SKWS+-+PHR+%7C+Txt_Compute-Firebase-KWID_43700066431125285-kwd-307216164692&utm_term=KW_firebase-ST_Firebase&gad_source=1&gclid=Cj0KCQjwltKxBhDMARIsAG8KnqWcROpgePAJ4Q3RFqwVP7pWkTX_7lrt5oGZXnP1lT7s5FNI0m4-xa0aAoCrEALw_wcB&gclsrc=aw.ds
+- https://cloud.google.com/pricing/list?utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-AKWS-all-all-trial-p-dr-1011454-LUAC0013595&utm_content=text-ad-none-any-DEV_c-CRE_545609612280-ADGP_Hybrid+%7C+SKWS+-+PHR+%7C+Txt_Compute-Firebase-KWID_43700066431125285-kwd-307216164692&utm_term=KW_firebase-ST_Firebase&gad_source=1&gclid=Cj0KCQjwltKxBhDMARIsAG8KnqWcROpgePAJ4Q3RFqwVP7pWkTX_7lrt5oGZXnP1lT7s5FNI0m4-xa0aAoCrEALw_wcB&gclsrc=aw.ds
 
 ## 1.4 Digital Ocean.?
 
